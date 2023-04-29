@@ -2,7 +2,7 @@
 
 **`A Full-stack web developer & YouTube Video creator`**
 
-Hi, this is Sabbir. A senior developer specializing ReactJs, NodeJs, React-native, and also NextJs. I have been developing full-stack applications for more than 3 years. I am very expert in JavaScript because I love it so much.😍
+Hi, this is Sabbir. A senior developer specializing ReactJs, NodeJs, React-native, ElectronJs and also NextJs. I have been developing full-stack applications for more than 3 years. I am very expert in JavaScript because I love it so much.😍
 
 My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also professed at troubleshooting bugs and chancing results to complex problems.  
 Also I'm a Youtube Video creator. I publish tech / programing related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than 400 subscribers.
