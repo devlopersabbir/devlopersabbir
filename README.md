@@ -38,7 +38,7 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 
 ### 🧰 Languages and Tools
 
-<img="left" alt="JavaScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <img align="left" alt="Java" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
@@ -82,7 +82,7 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 
 <img align="left" alt="Electronjs" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 
-<img align="left" alt="GraphQL" width="30px style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+<img align="left" alt="GraphQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 
 <img align="left" alt="Android" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
 
