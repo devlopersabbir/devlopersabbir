@@ -28,14 +28,13 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 
 ### ⚙ Most uses Technology
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)](#)
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Express](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](#)
-[![electron](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](#)
-[![react-native](https://img.shields.io/badge/-react_native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)](#)
-[![react-native](https://img.shields.io/badge/-typeorm-7F8C8D?style=for-the-badge&labelColor=17202A&logo=&logoColor=61DBFB)](#)
-[![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](#)
-[![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+[![Express](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)
+[![electron](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)
+[![native](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)
+[![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
+[![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
 
 ### 🧰 Languages and Tools
 
