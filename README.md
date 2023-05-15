@@ -69,7 +69,8 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 <img align="left" alt="Boostrap" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <img align="left" alt="Meterial UI" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-
+<br />
+<br />
 <img align="left" alt="Git" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="Linux" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -92,9 +93,7 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 
 <img align="left" alt="TensorFlow" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 
-<br />
-
-#
+<br /> <br />
 
 ### 📺 Latest YouTube Videos
 
