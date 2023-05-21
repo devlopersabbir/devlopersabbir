@@ -23,7 +23,7 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 ### 🚀 Bizness
 
 - 📎 [Resume/CV](./resume/Sabbir_Hossain_Shuvo.pdf)
-- ✉ [devlopersabbir@gmail.com](devlopersabbir@gmail.com)
+- ✉ [devlopersabbir@gmail.com](mailto:devlopersabbir@gmail.com)
 - 🎁 [devlopersabbir](https://www.showwcase.com/devlopersabbir)
 
 ### ⚙ Most uses Technology
