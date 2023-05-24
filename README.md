@@ -1,6 +1,6 @@
 # 👩‍💻 Sabbir Hossain Shuvo
 
-**`A Full-stack web developer & YouTube Video creator`**
+**`A Full-stack developer & YouTube Video creator`**
 
 Hi, this is Sabbir. A senior developer specializing ReactJs, NodeJs, React-native, ElectronJs and also NextJs. I have been developing full-stack applications for more than 3 years. I am very expert in JavaScript because I love it so much.😍
 
