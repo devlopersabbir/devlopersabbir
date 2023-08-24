@@ -20,13 +20,20 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 
 ---
 
-### 🚀 Bizness
 
-- 📎 [Resume/CV](./resume/Sabbir_Hossain_Shuvo.pdf)
-- ✉ [devlopersabbir@gmail.com](mailto:devlopersabbir@gmail.com)
-- 🎁 [devlopersabbir](https://www.showwcase.com/devlopersabbir)
 
-### ⚙ Most uses Technology
+| Bizness 🚀                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Weapons 🌟                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📎 [Resume/CV](./resume/Sabbir_Hossain_Shuvo.pdf)<br>✉ [devlopersabbir@gmail.com](mailto:devlopersabbir@gmail.com)<br>🎁 [devlopersabbir](https://www.showwcase.com/devlopersabbir)<br><br><br>[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=61DBFB)](https://facebook.com/devlopersabbir)[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=61DBFB)](https://instagram.com/devlopersabbir)<br>[![Twitter](https://img.shields.io/badge/-twitter-17202A?style=for-the-badge&labelColor=2980B9&logo=twitter&logoColor=61DBFB)](https://twitter.com/devlopersabbir)[![Linkedin](https://img.shields.io/badge/-linkedin-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/devlopersabbir/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=react)](https://github.com/devlopersabbir/github-readme-stats) |
+
+
+
+
+
+
+
+
+### ⚙ Most uses of Technology
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -35,6 +42,8 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 [![native](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)
 [![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
 [![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
+
+
 
 ### 🧰 Languages and Tools
 
