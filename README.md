@@ -2,10 +2,10 @@
 
 **`A Full-stack developer & YouTube Video creator`**
 
-Hi, this is Sabbir. A senior developer specializing ReactJs, NodeJs, React-native, ElectronJs and also NextJs. I have been developing full-stack applications for more than 3 years. I am very expert in JavaScript because I love it so much.😍
+Hi, this is Sabbir—a senior developer specializing in ReactJs, NodeJs, React-native, ElectronJs, and also NextJs. I have been developing full-stack applications for more than 3 years. I am an expert in JavaScript because I love it so much.😍
 
-My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also professed at troubleshooting bugs and chancing results to complex problems.  
-Also I'm a Youtube Video creator. I publish tech / programing related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than 400 subscribers.
+My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
+Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than 400 subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
@@ -43,6 +43,8 @@ Also I'm a Youtube Video creator. I publish tech / programing related content on
 [![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
 [![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
 
+
+---
 
 
 ### 🧰 Languages and Tools
