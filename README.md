@@ -44,6 +44,7 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 [![native](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)
 [![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
 [![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
+[![docker](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)
 
 
 ---
