@@ -36,6 +36,7 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 ### ⚙ Most uses of Technology
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)
+[![FastAPI](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)
 [![Srping boot](https://img.shields.io/badge/-spring_boot-008000?style=for-the-badge&labelColor=fff&logo=spring&logoColor=008000)](https://img.shields.io/badge/-spring_boot-008000?style=for-the-badge&labelColor=fff&logo=spring&logoColor=008000)
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 [![Express](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)
@@ -46,7 +47,7 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 [![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
 [![docker](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)
 
-
+https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB
 ---
 
 
