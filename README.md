@@ -47,7 +47,6 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 [![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
 [![docker](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)
 
-https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB
 ---
 
 
