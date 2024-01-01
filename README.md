@@ -2,10 +2,12 @@
 
 **`A Full-stack developer & YouTube Video creator`**
 
+![devlopersabbir profile view](https://rushter.com/counter.svg)
+
 Hi, this is Sabbir—a senior developer specializing in ReactJs, FastAPI, NodeJs, React-native, ElectronJs, NextJs, and Spring boot. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
 
 My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
-Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than **680 subscribers**.
+Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than **700 subscribers**.
 
    <p align="left">
       <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
@@ -20,18 +22,9 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 ---
 
-
-
-| Bizness 🚀                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Weapons 🌟                                                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bizness 🚀                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Weapons 🌟                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📎 [Resume/CV](./resume/Sabbir.pdf)<br>✉ [devlopersabbir@gmail.com](mailto:devlopersabbir@gmail.com)<br>🎁 [devlopersabbir](https://www.showwcase.com/devlopersabbir)<br><br><br>[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=61DBFB)](https://facebook.com/devlopersabbir)[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=61DBFB)](https://instagram.com/devlopersabbir)<br>[![Twitter](https://img.shields.io/badge/-twitter-17202A?style=for-the-badge&labelColor=2980B9&logo=twitter&logoColor=61DBFB)](https://twitter.com/devlopersabbir)[![Linkedin](https://img.shields.io/badge/-linkedin-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/devlopersabbir/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=react)](https://github.com/devlopersabbir/github-readme-stats) |
-
-
-
-
-
-
-
 
 ### ⚙ Most uses of Technology
 
@@ -48,7 +41,6 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 [![docker](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)
 
 ---
-
 
 ### 🧰 Languages and Tools
 
@@ -112,12 +104,14 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![🔥100+ Java Projects #008 - File Operations in Java | Introductions | Part-1](https://ytcards.demolab.com/?id=mPpz5BFm1fU&title=%F0%9F%94%A5100%2B+Java+Projects+%23008+-+File+Operations+in+Java+%7C+Introductions+%7C+Part-1&lang=en&timestamp=1704027608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔥100+ Java Projects #008 - File Operations in Java | Introductions | Part-1")](https://www.youtube.com/watch?v=mPpz5BFm1fU)
 [![JavaScript Full Course In Bangla 2024 | Increment & Decrement | Episode - 23 | By [ST SABBIR] - 2024](https://ytcards.demolab.com/?id=qqbl2F-lsWY&title=JavaScript+Full+Course+In+Bangla+2024+%7C+Increment+%26+Decrement+%7C+Episode+-+23+%7C+By+%5BST+SABBIR%5D+-+2024&lang=en&timestamp=1703921152&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "JavaScript Full Course In Bangla 2024 | Increment & Decrement | Episode - 23 | By [ST SABBIR] - 2024")](https://www.youtube.com/watch?v=qqbl2F-lsWY)
 [![🔥100+ Java Projects #010 - File Operations | Write to a File | Part - 3](https://ytcards.demolab.com/?id=a5aQDWQ93HI&title=%F0%9F%94%A5100%2B+Java+Projects+%23010+-+File+Operations+%7C+Write+to+a+File+%7C+Part+-+3&lang=en&timestamp=1703754291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔥100+ Java Projects #010 - File Operations | Write to a File | Part - 3")](https://www.youtube.com/watch?v=a5aQDWQ93HI)
 [![✨Building Node.js NPM Package using TypeScript & Publishing on npmjs | With Testing - ST Sabbir 2024](https://ytcards.demolab.com/?id=qlxjLcjsmRk&title=%E2%9C%A8Building+Node.js+NPM+Package+using+TypeScript+%26+Publishing+on+npmjs+%7C+With+Testing+-+ST+Sabbir+2024&lang=en&timestamp=1703745584&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "✨Building Node.js NPM Package using TypeScript & Publishing on npmjs | With Testing - ST Sabbir 2024")](https://www.youtube.com/watch?v=qlxjLcjsmRk)
 [![🔥100+ Java Projects #009 - File Operations | Create a File | Part - 2](https://ytcards.demolab.com/?id=C5VsoN-AywY&title=%F0%9F%94%A5100%2B+Java+Projects+%23009+-+File+Operations+%7C+Create+a+File+%7C+Part+-+2&lang=en&timestamp=1703705606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔥100+ Java Projects #009 - File Operations | Create a File | Part - 2")](https://www.youtube.com/watch?v=C5VsoN-AywY)
 [![🧑🏻‍💻 Python API Development #13 Path Parameter Validations | In Bangla 2024 | By ST Sabbir](https://ytcards.demolab.com/?id=dWKrarS4-IU&title=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Python+API+Development+%2313+Path+Parameter+Validations+%7C+In+Bangla+2024+%7C+By+ST+Sabbir&lang=en&timestamp=1703592920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🧑🏻‍💻 Python API Development #13 Path Parameter Validations | In Bangla 2024 | By ST Sabbir")](https://www.youtube.com/watch?v=dWKrarS4-IU)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/stsabbir?sub_confirmation=1)
