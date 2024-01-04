@@ -2,7 +2,7 @@
 
 **`A Full-stack developer & YouTube Video creator`**
 
-![devlopersabbir profile view](https://rushter.com/counter.svg)
+[![devlopersabbir profile view](https://visitcount.itsvg.in/api?id=devlopersabbir&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 Hi, this is Sabbir—a senior developer specializing in ReactJs, FastAPI, NodeJs, React-native, ElectronJs, NextJs, and Spring boot. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
 
