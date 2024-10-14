@@ -7,7 +7,7 @@
 Hi, this is Sabbir—a senior developer specializing in ReactJs, FastAPI, NodeJs, React-native, ElectronJs, NextJs, and Spring boot. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
 
 My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
-Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than **700 subscribers**.
+Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than **1000 subscribers**.
 
    <p align="left">
       <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
