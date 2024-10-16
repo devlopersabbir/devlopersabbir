@@ -1,13 +1,14 @@
-# 👩‍💻 Sabbir Hossain Shuvo
+# 👩‍💻 Sabbir Hossain (Shuvo)
 
-**`A Full-stack developer & YouTube Video creator`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Full-stack+software+engineer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+programming+instructor+on+YouTube+platform)](https://git.io/typing-svg)
 
 [![devlopersabbir profile view](https://visitcount.itsvg.in/api?id=devlopersabbir&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 Hi, this is Sabbir—a senior developer specializing in ReactJs, FastAPI, NodeJs, React-native, ElectronJs, NextJs, and Spring boot. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
 
 My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
-Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/c/stsabbir)" to more than **1000 subscribers**.
+Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/@stsabbir)" to more than **1000 subscribers**.
 
    <p align="left">
       <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
