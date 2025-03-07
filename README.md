@@ -5,10 +5,10 @@
 
 [![devlopersabbir profile view](https://visitcount.itsvg.in/api?id=devlopersabbir&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-Hi, this is Sabbir—a senior developer specializing in ReactJs, FastAPI, NodeJs, React-native, ElectronJs, NextJs, and Spring boot. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
+Hi, this is Sabbir—a senior developer specializing in ReactJs, NodeJs, React-native, ElectronJs, NextJs, and Python FastAPI. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
 
-My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
-Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/@stsabbir)" to more than **1000 subscribers**.
+My core strengths include quickly learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and changing results to complex problems.  
+Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/@stsabbir)" to more than **1.1k subscribers**.
 
    <p align="left">
       <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
@@ -30,8 +30,6 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 ### ⚙ Most uses of Technology
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)
-[![FastAPI](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)
-[![Srping boot](https://img.shields.io/badge/-spring_boot-008000?style=for-the-badge&labelColor=fff&logo=spring&logoColor=008000)](https://img.shields.io/badge/-spring_boot-008000?style=for-the-badge&labelColor=fff&logo=spring&logoColor=008000)
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 [![Express](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)
 [![NextJs](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)
@@ -40,6 +38,8 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 [![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
 [![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
 [![docker](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)
+[![FastAPI](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)
+
 
 ---
 
@@ -50,8 +50,6 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 <img align="left" alt="Java" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 <img align="left" alt="TypeScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-<img align="left" alt="c-sharp" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 <img align="left" alt="NodeJS" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
@@ -92,13 +90,7 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 <img align="left" alt="GraphQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 
-<img align="left" alt="Android" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
-
 <img align="left" alt="Socket.io" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
-
-<img align="left" alt="Apple" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-
-<img align="left" alt="TensorFlow" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 
 <br /> <br />
 
