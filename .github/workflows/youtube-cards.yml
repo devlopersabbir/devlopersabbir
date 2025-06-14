@@ -9,6 +9,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: devlopersabbir/github-readme-youtube-cards@main
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: ${{ secrets.YOUTUBE_ID }}
+          channel_id: UC-kwgB_vfZlCtI_eXijNhMw
