@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Full-stack+software+engineer...)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+programming+instructor+on+YouTube+platform)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=devlopersabbir&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+![profile view count](https://komarev.com/ghpvc/?username=devlopersabbir)
 
 Hi, this is Sabbir—a senior developer specializing in ReactJs, NextJs, NestJs, NodeJs, React-native, ElectronJs, and Python FastAPI. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
 
@@ -91,10 +91,10 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 <details>
  <summary><h3>👨‍💻 Sabbir Coding Journey</h3></summary>
-   I started my coding journey in 2019.
+   I started my coding journey in 2020.
 
-[website]: https://showcase/devlopersabbir
-[youtube]: https://youtube.com/c/stsabbir
+[website]: https://devlopersabbir.github.io
+[youtube]: https://youtube.com/@stsabbir
 
 #
 
