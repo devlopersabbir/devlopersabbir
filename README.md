@@ -62,7 +62,7 @@ Software Engineering
 [![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
-* **Core Focus:** Cloud Architecture, Infrastructure as Code (IaC), CI/CD Automation, Container Orchestration, Networking, Monitoring & Observability, Logging, Troubleshooting, System Design, Scalability & Reliability.
+- **Core Focus:** Cloud Architecture, Infrastructure as Code (IaC), CI/CD Automation, Container Orchestration, Networking, Monitoring & Observability, Logging, Troubleshooting, System Design, Scalability & Reliability.
 
 ---
 
@@ -72,8 +72,6 @@ Software Engineering
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -81,16 +79,20 @@ Software Engineering
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 
-* **Core Focus:** Backend Systems, REST APIs, GraphQL, Database Design & Optimization, Microservices.
+- **Core Focus:** Backend Systems, REST APIs, GraphQL, Database Design & Optimization, Microservices.
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlopersabbir&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sabbir's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+  <a href="https://github.com/devlopersabbir">
+    <img src="https://github-readme-stats.vercel.app/api?username=devlopersabbir&show_icons=true&theme=dark" alt="Sabbir's GitHub Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/devlopersabbir">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=dark&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
 ---
@@ -100,12 +102,14 @@ Software Engineering
 I publish tech and programming-related tutorials on my YouTube channel **"[ST Sabbir](https://youtube.com/@stsabbir)"** to **1.2k+ subscribers**, sharing insights on APIs, backend architecture, and tools.
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![🧑🏻‍💻 Python API Development #31 Database Explain Part - 1 | In Bangla 2025 | By ST Sabbir](https://ytcards.demolab.com/?id=Ur-Bux7Qyh0&title=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Python+API+Development+%2331+Database+Explain+Part+-+1+%7C+In+Bangla+2025+%7C+By+ST+Sabbir&lang=en&timestamp=1759240549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🧑🏻‍💻 Python API Development #31 Database Explain Part - 1 | In Bangla 2025 | By ST Sabbir")](https://www.youtube.com/watch?v=Ur-Bux7Qyh0)
 [![#18 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025](https://ytcards.demolab.com/?id=Na101joyZCI&title=%2318+Mastering+Hono+Framework+with+Deno.js%3A+Build+a+Scalable+Lightweight+REST+API+-+2025&lang=en&timestamp=1741705373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#18 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025")](https://www.youtube.com/watch?v=Na101joyZCI)
 [![Mastering lsc-storage: Simplify Web Storage Management NPM Package](https://ytcards.demolab.com/?id=iFdokUQltgk&title=Mastering+lsc-storage%3A+Simplify+Web+Storage+Management+NPM+Package&lang=en&timestamp=1740330195&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mastering lsc-storage: Simplify Web Storage Management NPM Package")](https://www.youtube.com/watch?v=iFdokUQltgk)
 [![#17 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025](https://ytcards.demolab.com/?id=L3iHA_ZKTN0&title=%2317+Mastering+Hono+Framework+with+Deno.js%3A+Build+a+Scalable+Lightweight+REST+API+-+2025&lang=en&timestamp=1738247157&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#17 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025")](https://www.youtube.com/watch?v=L3iHA_ZKTN0)
 [![#16 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025](https://ytcards.demolab.com/?id=ZY-OfnJ8v8k&title=%2316+Mastering+Hono+Framework+with+Deno.js%3A+Build+a+Scalable+Lightweight+REST+API+-+2025&lang=en&timestamp=1737468040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#16 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025")](https://www.youtube.com/watch?v=ZY-OfnJ8v8k)
 [![#15 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025](https://ytcards.demolab.com/?id=HukrmEeuIIc&title=%2315+Mastering+Hono+Framework+with+Deno.js%3A+Build+a+Scalable+Lightweight+REST+API+-+2025&lang=en&timestamp=1737363177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#15 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025")](https://www.youtube.com/watch?v=HukrmEeuIIc)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="left">
