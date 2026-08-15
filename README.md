@@ -29,27 +29,21 @@ DevOps Engineer with **4+ years of Software Engineering background** and hands-o
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <sub><b>CLOUD & DEVOPS</b></sub><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,pulumi,githubactions,gitlab,jenkins" alt="DevOps Stack" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><b>BACKEND & SOFTWARE ENGINEERING</b></sub><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,postgres,mysql,mongodb,redis,nextjs,react" alt="Software Engineering Stack" />
-  </a>
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Cloud & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,pulumi,githubactions,gitlab,jenkins" alt="DevOps Stack" /></a> |
+| **Backend & Engineering** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,postgres,mysql,mongodb,redis,nextjs,react" alt="Software Stack" /></a> |
 
 <br/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlopersabbir&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=dark&hide_border=true&layout=compact" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devlopersabbir&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devlopersabbir&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devlopersabbir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
