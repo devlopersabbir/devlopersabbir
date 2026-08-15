@@ -1,74 +1,102 @@
-# 👩‍💻 Sabbir Hossain (Shuvo)
+# 👨‍💻 Sabbir Hossain (Shuvo)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Full-stack+software+engineer...)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+programming+instructor+on+YouTube+platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=DevOps+Engineer;Cloud+Infrastructure;Automation+%26+Reliability)](https://git.io/typing-svg)
 
 ![profile view count](https://komarev.com/ghpvc/?username=devlopersabbir)
 
-Hi, this is Sabbir—a senior developer specializing in ReactJs, NextJs, NestJs, NodeJs, React-native, ElectronJs, and Python FastAPI. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
-
-My core strengths include quickly learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and changing results to complex problems.  
-Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/@stsabbir)" to more than **1.2k subscribers**.
-
-   <p align="left">
-      <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/stsabbir">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/devlopersabbir?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devlopersabbir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/devlopersabbir?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devlopersabbir?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+  <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
+     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/stsabbir">
+     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/devlopersabbir?tab=followers">
+     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devlopersabbir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/devlopersabbir?tab=repositories&sort=stargazers">
+     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devlopersabbir?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 ---
 
-| Bizness 🚀                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Weapons 🌟                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📎 [Resume/CV](./resume/sabbir_software_engineer_4y.pdf)<br>✉ [devlopersabbir@gmail.com](mailto:devlopersabbir@gmail.com)<br>🎁 [devlopersabbir.github.io](https://devlopersabbir.github.io)<br><br><br>[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=61DBFB)](https://facebook.com/devlopersabbir)[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=61DBFB)](https://instagram.com/devlopersabbir)<br>[![Twitter](https://img.shields.io/badge/-twitter-17202A?style=for-the-badge&labelColor=2980B9&logo=x&logoColor=61DBFB)](https://x.com/thatsabbir)[![Linkedin](https://img.shields.io/badge/-linkedin-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/devlopersabbir/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=react)](https://github.com/devlopersabbir/github-readme-stats) |
+### 💡 About Me
 
-### ⚙ Most uses of Technology
+**DevOps Engineer | Cloud Infrastructure | Automation & Reliability**
 
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-[![NextJs](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)
-[![NestJs](https://img.shields.io/badge/-nestjs-61DBFB?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=61DBFB)](https://img.shields.io/badge/-nestjs-61DBFB?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=61DBFB)
-[![Express](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)
-[![react-native](https://img.shields.io/badge/-react_native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)
-[![electron](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)
-[![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
-[![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
-[![docker](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)
-[![FastAPI](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)
+I'm a DevOps Engineer with 4+ years of experience in software engineering and more than a year working hands-on with DevOps, cloud infrastructure, and automation.
 
+I started my career building software and backend systems, which eventually led me deeper into the infrastructure side — servers, cloud architecture, networking, containers, CI/CD, monitoring, and reliability.
+
+I enjoy figuring out how things work under the hood, solving infrastructure problems, troubleshooting production issues, automating repetitive work, and building systems that are reliable and easy to scale.
+
+I work mainly with AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, monitoring, and observability, while continuing to explore system design, distributed systems, cloud architecture, and infrastructure automation.
+
+For me, DevOps isn't just about using tools. It's about understanding the whole system, knowing how to troubleshoot it, and making it work better.
 
 ---
 
-### 🧰 Languages and Tools
+### 🚀 Career Journey & Perspective
 
-<img align="left" alt="JavaScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="React" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NextJs" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="NestJs" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-<img align="left" alt="Docker" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Electronjs" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-<img align="left" alt="GraphQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-<img align="left" alt="Socket.io" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
-<img align="left" alt="Redux" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+```
+Software Engineering
+   └── Backend Systems
+        └── Infrastructure
+             └── DevOps
+                  └── Cloud
+                       └── Automation
+                            └── Reliability
+```
 
-<img align="left" alt="MySQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Mongoodb" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="PostGresQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+> **Engineering Advantage:** Having 4+ years of hands-on software development experience gives me deep empathy for application code, developer workflows, and system architecture. I treat infrastructure with software engineering rigor—building scalable, maintainable, and resilient systems.
 
-<img align="left" alt="GitHub" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+---
 
+### ☁️ DevOps & Cloud Stack
 
-<br /> <br />
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
-### 📺 Latest YouTube Videos
+* **Core Focus:** Cloud Architecture, Infrastructure as Code (IaC), CI/CD Automation, Container Orchestration, Networking, Monitoring & Observability, Logging, Troubleshooting, System Design, Scalability & Reliability.
+
+---
+
+### 🛠️ Software Engineering Background
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+
+* **Core Focus:** Backend Systems, REST APIs, GraphQL, Database Design & Optimization, Microservices.
+
+---
+
+### 📊 GitHub & Language Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devlopersabbir&show_icons=true&theme=gruvbox" alt="Sabbir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=react&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 📺 Technical Content & YouTube
+
+I publish tech and programming-related tutorials on my YouTube channel **"[ST Sabbir](https://youtube.com/@stsabbir)"** to **1.2k+ subscribers**, sharing insights on APIs, backend architecture, and tools.
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![🧑🏻‍💻 Python API Development #31 Database Explain Part - 1 | In Bangla 2025 | By ST Sabbir](https://ytcards.demolab.com/?id=Ur-Bux7Qyh0&title=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Python+API+Development+%2331+Database+Explain+Part+-+1+%7C+In+Bangla+2025+%7C+By+ST+Sabbir&lang=en&timestamp=1759240549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🧑🏻‍💻 Python API Development #31 Database Explain Part - 1 | In Bangla 2025 | By ST Sabbir")](https://www.youtube.com/watch?v=Ur-Bux7Qyh0)
@@ -79,24 +107,27 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 [![#15 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025](https://ytcards.demolab.com/?id=HukrmEeuIIc&title=%2315+Mastering+Hono+Framework+with+Deno.js%3A+Build+a+Scalable+Lightweight+REST+API+-+2025&lang=en&timestamp=1737363177&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#15 Mastering Hono Framework with Deno.js: Build a Scalable Lightweight REST API - 2025")](https://www.youtube.com/watch?v=HukrmEeuIIc)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/stsabbir?sub_confirmation=1)
+<p align="left">
+  <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe"/>
+  </a>
+</p>
 
-#
+---
 
-### 📊 Stats
+### 📫 Connect & Links
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlopersabbir&show_icons=true&theme=gruvbox)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlopersabbir/)
+[![Twitter/X](https://img.shields.io/badge/-X-17202A?style=for-the-badge&labelColor=2980B9&logo=x&logoColor=white)](https://x.com/thatsabbir)
+[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=white)](https://facebook.com/devlopersabbir)
+[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=white)](https://instagram.com/devlopersabbir)
+[![Website](https://img.shields.io/badge/-Portfolio-17202A?style=for-the-badge&labelColor=27AE60&logo=google-chrome&logoColor=white)](https://devlopersabbir.github.io)
+[![Resume](https://img.shields.io/badge/-Resume-17202A?style=for-the-badge&labelColor=8E44AD&logo=adobe-acrobat-reader&logoColor=white)](./resume/Sabbir-CV.pdf)
+[![Email](https://img.shields.io/badge/-Email-17202A?style=for-the-badge&labelColor=C0392B&logo=gmail&logoColor=white)](mailto:devlopersabbir@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-17202A?style=for-the-badge&labelColor=FFDD00&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/devlopersabbir)
 
-#
+---
 
-<details>
- <summary><h3>👨‍💻 Sabbir Coding Journey</h3></summary>
-   I started my coding journey in 2020.
-
-[website]: https://devlopersabbir.github.io
-[youtube]: https://youtube.com/@stsabbir
-
-#
-
-**For the support**
-[Buy Me A Coffee](https://www.buymeacoffee.com/devlopersabbir)
+<p align="center">
+  <i>Building reliable infrastructure, automating workflows, and bridging software with cloud systems.</i>
+</p>
