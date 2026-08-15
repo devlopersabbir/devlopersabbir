@@ -6,9 +6,9 @@
 
 <p align="left">
   <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
-     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+     <img alt="YouTube Subscribers" src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
   <a href="https://www.youtube.com/c/stsabbir">
-     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+     <img alt="YouTube Channel" src="https://img.shields.io/badge/YouTube-ST_Sabbir-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
   <a href="https://github.com/devlopersabbir?tab=followers">
      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devlopersabbir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/devlopersabbir?tab=repositories&sort=stargazers">
@@ -51,16 +51,16 @@ Software Engineering
 
 ### ☁️ DevOps & Cloud Stack
 
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)](https://www.pulumi.com/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
+[![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)](https://www.pulumi.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
 * **Core Focus:** Cloud Architecture, Infrastructure as Code (IaC), CI/CD Automation, Container Orchestration, Networking, Monitoring & Observability, Logging, Troubleshooting, System Design, Scalability & Reliability.
 
@@ -68,28 +68,29 @@ Software Engineering
 
 ### 🛠️ Software Engineering Background
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 
 * **Core Focus:** Backend Systems, REST APIs, GraphQL, Database Design & Optimization, Microservices.
 
 ---
 
-### 📊 GitHub & Language Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlopersabbir&show_icons=true&theme=gruvbox" alt="Sabbir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=react&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devlopersabbir&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sabbir's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -109,7 +110,7 @@ I publish tech and programming-related tutorials on my YouTube channel **"[ST Sa
 
 <p align="left">
   <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe"/>
+    <img src="https://img.shields.io/badge/YouTube-Subscribe_For_More-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
   </a>
 </p>
 
@@ -117,14 +118,14 @@ I publish tech and programming-related tutorials on my YouTube channel **"[ST Sa
 
 ### 📫 Connect & Links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlopersabbir/)
-[![Twitter/X](https://img.shields.io/badge/-X-17202A?style=for-the-badge&labelColor=2980B9&logo=x&logoColor=white)](https://x.com/thatsabbir)
-[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=white)](https://facebook.com/devlopersabbir)
-[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=white)](https://instagram.com/devlopersabbir)
-[![Website](https://img.shields.io/badge/-Portfolio-17202A?style=for-the-badge&labelColor=27AE60&logo=google-chrome&logoColor=white)](https://devlopersabbir.github.io)
-[![Resume](https://img.shields.io/badge/-Resume-17202A?style=for-the-badge&labelColor=8E44AD&logo=adobe-acrobat-reader&logoColor=white)](./resume/Sabbir-CV.pdf)
-[![Email](https://img.shields.io/badge/-Email-17202A?style=for-the-badge&labelColor=C0392B&logo=gmail&logoColor=white)](mailto:devlopersabbir@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-17202A?style=for-the-badge&labelColor=FFDD00&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/devlopersabbir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlopersabbir/)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/thatsabbir)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/devlopersabbir)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/devlopersabbir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-27AE60?style=flat-square&logo=google-chrome&logoColor=white)](https://devlopersabbir.github.io)
+[![Resume](https://img.shields.io/badge/Resume-8E44AD?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](./resume/Sabbir-CV.pdf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devlopersabbir@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/devlopersabbir)
 
 ---
 
