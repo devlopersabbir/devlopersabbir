@@ -56,7 +56,7 @@ DevOps Engineer with **4+ years of Software Engineering background** and hands-o
   <a href="https://x.com/thatsabbir"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://facebook.com/devlopersabbir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
   <a href="https://devlopersabbir.github.io"><img src="https://img.shields.io/badge/Portfolio-27AE60?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="./resume/Sabbir-CV.pdf"><img src="https://img.shields.io/badge/Resume-8E44AD?style=flat&logo=adobe-acrobat-reader&logoColor=white" /></a>
+  <a href="./resume/Sabbir_DevOps_And_Cloud_Infrastructure_Engineer.pdf"><img src="https://img.shields.io/badge/Resume-8E44AD?style=flat&logo=adobe-acrobat-reader&logoColor=white" /></a>
   <a href="mailto:devlopersabbir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.buymeacoffee.com/devlopersabbir"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
