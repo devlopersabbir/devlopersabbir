@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=DevOps+Engineer;Cloud+Infrastructure;Automation+%26+Reliability" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=560&lines=DevOps+Engineer;Cybersecurity+Researcher;Cloud+Infrastructure+%26+Automation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,12 +17,14 @@
 
 ### ⚡ About Me
 
-> **DevOps Engineer | Cloud Infrastructure | Automation & Reliability**
+> **DevOps Engineer & Cybersecurity Researcher**
 
-DevOps Engineer with **4+ years of Software Engineering background** and hands-on experience designing, automating, and scaling **Cloud Infrastructure, CI/CD, and System Reliability**. I bridge application code with infrastructure rigor to build scalable and self-healing systems.
+I'm a software engineer with **4+ years of experience**, focused on building, automating, and maintaining reliable cloud infrastructure and production systems. My journey started in backend engineering and gradually led me into cloud architecture, infrastructure automation, CI/CD, and system reliability.
 
-- 💼 **Core Focus:** AWS, Linux, Docker, Kubernetes, Terraform, GitHub Actions, NestJS, TypeScript
-- 🎯 **Engineering Goals:** Infrastructure as Code (IaC), Observability, Distributed Systems & Cloud Architecture
+I'm also interested in **cybersecurity research**, with a focus on understanding how systems work under the hood, identifying weaknesses, and applying security-minded engineering practices to infrastructure and applications.
+
+- 💼 **Core Focus:** AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, Infrastructure Security
+- 🎯 **Engineering Interests:** Cloud Architecture, Infrastructure as Code, Observability, Distributed Systems & Cybersecurity
 - 📺 **Content Creation:** Tutorials on YouTube ([ST Sabbir](https://youtube.com/@stsabbir)) covering APIs, DevOps & Backend Systems
 
 <br/>
@@ -59,5 +61,5 @@ DevOps Engineer with **4+ years of Software Engineering background** and hands-o
 <br/>
 
 <p align="center">
-  <sub><i>Building reliable infrastructure, automating workflows, and bridging software with cloud systems.</i></sub>
+  <sub><i>Building reliable infrastructure, exploring security, and making systems more resilient.</i></sub>
 </p>
